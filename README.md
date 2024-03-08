@@ -1,5 +1,4 @@
-<h1 align="center">Yo Yo Yo 👋, I'm Valeri</h1>
-<h3 align="center">... Idk what to say ngl</h3>
+<h1 align="center">Valeri</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valeri-b&label=Profile%20views&color=0e75b6&style=flat" alt="valeri-b" /> </p>
 
